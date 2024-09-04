@@ -1,0 +1,47 @@
+{
+  "@@locale": "id",
+  "language": "Bahasa",
+  "@language": {
+    "description": "Label untuk memilih bahasa aplikasi."
+  },
+  "common_appName": "Flutter Kode Bersih Ragam",
+  "@common_appName": {
+    "description": "Nama aplikasi."
+  },
+  "error_somethingWentWrong": "Terjadi kesalahan!",
+  "@error_somethingWentWrong": {
+    "description": "Pesan kesalahan ketika terjadi sesuatu yang salah."
+  },
+  "error_serverError": "Kesalahan Server!",
+  "@error_serverError": {
+    "description": "Pesan kesalahan ketika server mengembalikan kesalahan."
+  },
+  "error_connectionError": "Kesalahan Koneksi!",
+  "@error_connectionError": {
+    "description": "Pesan kesalahan ketika terjadi kesalahan koneksi."
+  },
+  "error_noUser": "Pengguna tidak ditemukan!",
+  "@error_noUser": {
+    "description": "Pesan kesalahan ketika pengguna tidak ditemukan."
+  },
+  "splash_title": "Flutter Kode Bersih Ragam",
+  "@splash_title": {
+    "description": "Judul layar splash."
+  },
+  "save": "Simpan",
+  "@save": {
+    "description": "Label tombol untuk menyimpan perubahan"
+  },
+  "login": "Masuk",
+  "@login": {
+    "description": "Label tombol untuk masuk ke aplikasi"
+  },
+  "profile": "Profil",
+  "@profile": {
+    "description": "Label untuk bagian profil pengguna"
+  },
+  "home": "Beranda",
+  "@home": {
+    "description": "Label untuk halaman utama"
+  }
+}

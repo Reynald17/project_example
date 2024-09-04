@@ -1,0 +1,45 @@
+name: project_example
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  connectivity_plus: ^6.0.5
+  dartz: ^0.10.1
+  dio: ^5.7.0
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.6
+  flutter_localization: ^0.2.2
+  flutter_screenutil: ^5.9.3
+  flutter_svg: ^2.0.10+1
+  get_it: ^7.7.0
+  hive_flutter: ^1.1.0
+  intl: ^0.19.0
+  flutter_localizations:
+    sdk: flutter
+  path_provider: any
+  provider: ^6.1.2
+  pretty_dio_logger: ^1.4.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  hive_generator: ^2.0.1
+  build_runner: ^2.4.11
+  flutter_gen: ^5.7.0
+  intl_utils: ^2.8.7
+
+flutter:
+  uses-material-design: true
+
+flutter_intl:
+  enabled: true
+  class_name: I10n
+  main_locale: en
+  arb_dir: lib/core/localization/l10n
+  output_dir: lib/core/localization/generated
